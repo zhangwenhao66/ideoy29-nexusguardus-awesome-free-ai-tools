@@ -74,6 +74,7 @@
 | **[Google Veo 3.1](https://vids.new)** | 10 generations/month | ✅ | 10/mo, watermarked | Google's best model, May 2026. |
 | **[Stable Video Diffusion](https://huggingface.co/spaces/multimodalart/stable-video-diffusion)** | Free via HF Spaces | ✅ | ~4s clips, queue | Open source. Image-to-video. |
 | **[HeyGen](https://heygen.com)** | 1 free credit (1 min) | ✅ | 1 video total | AI avatars. Very limited free. |
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 
 ## 🎵 AI Music
 
